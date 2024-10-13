@@ -128,7 +128,7 @@ job.yearsOfExperience = 2
 Generate any static configuration format
 --
 
-Define all your data in Pkl, and generate output for JSON, YAML, Property Lists, and other
+Define all your data in Pkl. Generate JSON, YAML, Property Lists, and other
 configuration formats.
 
 ======
@@ -145,7 +145,7 @@ configuration formats.
 Integrated application configuration
 --
 
-Embed Pkl into your applications for runtime configuration, and receive code generation for
+Embed Pkl into your applications for runtime configuration. Receive code generation for
 *Java*, *Kotlin*, *Swift*, and *Go*.
 
 [.logos]
@@ -309,7 +309,7 @@ image::intellij.gif[intellij]
 Incredible IDE Integration
 --
 
-Great tooling for writing Pkl with the same ease as a static typed language. We offer plugins and extensions for IntelliJ, Visual Studio Code and Neovim, and also provide the Pkl Language Server so you can easily your own editor integrations.
+Write Pkl with the same ease as a statically typed language. We offer plugins and extensions for IntelliJ, Visual Studio Code, and Neovim. Our Pkl Language Server can also be leveraged by third-party editor integrations.
 
 ======
 
