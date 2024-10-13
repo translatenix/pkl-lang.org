@@ -309,7 +309,7 @@ image::intellij.gif[intellij]
 Incredible IDE Integration
 --
 
-Write Pkl with the same ease as a statically typed language. We offer plugins and extensions for IntelliJ, Visual Studio Code, and Neovim. Our Pkl Language Server can also be leveraged by third-party editor integrations.
+Write Pkl with the same ease as a statically typed language. We offer plugins and extensions for IntelliJ, Visual Studio Code, and Neovim. The underlying Pkl Language Server can also be leveraged by third-party editor integrations.
 
 ======
 
